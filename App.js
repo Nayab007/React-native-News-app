@@ -28,10 +28,10 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-<<<<<<< HEAD
+
     backgroundColor: '#f6f6f6',
-=======
+
     backgroundColor: '#fff',
->>>>>>> e00a8589eebd461561f8462ff4bc95dad90d8d70
+
   },
 });
