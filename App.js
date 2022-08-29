@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: '#f6f6f5',
 
-    backgroundColor: '#fff',
+    backgroundColor: '#f5f5f5',
 
   },
 });
